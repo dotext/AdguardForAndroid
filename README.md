@@ -49,19 +49,22 @@
 </p>
 <br />
 
+AdGuard is a unique tool that blocks ads in apps and browsers even without ROOT privileges, protects your privacy, and helps you manage your apps. AdGuard gives you options of running it either VPN or HTTP proxy mode and allows to set up custom DNS settings (with DNSCrypt support).
+
+To get more information and to download AdGuard for Android, [visit our website](https://adguard.com/adguard-android/overview.html).
+
+> ### Disclaimer
+>* AdGuard for Android is not an open source project. We use GitHub as an open bug tracker for users to see what developers are working on. However, we at AdGuard create [a lot of open source software](https://github.com/search?o=desc&q=topic%3Aopen-source+org%3AAdguardTeam+fork%3Atrue&s=stars&type=Repositories).
+>* View our [Privacy Policy](https://adguard.com/privacy/android.html) (Briefly: AdGuard sends only necessary, limited information, e.g. information required for a license check).
+<br />
+
 * [Contribution](#contribution)
   * [How to report an issue](#issue)
   * [Translating AdGuard](#contribution-translating)
   * [Other options](#contribution-other)
   * [How to become a Beta tester](#beta-tester)
 
-> ### Disclaimer
->* AdGuard for Android is not an open source project. We use GitHub as an open bug tracker for users to see what developers are working on. However, we at AdGuard create [a lot of open source software](https://github.com/search?o=desc&q=topic%3Aopen-source+org%3AAdguardTeam+fork%3Atrue&s=stars&type=Repositories).
->* View our [Privacy Policy](https://adguard.com/privacy/android.html) (Briefly: AdGuard sends only necessary, limited information, e.g. information required for a license check).
-
-AdGuard is a unique tool that blocks ads in apps and browsers even without ROOT privileges, protects your privacy, and helps you manage your apps. AdGuard gives you options of running it either VPN or HTTP proxy mode and allows to set up custom DNS settings (with DNSCrypt support).
-
-To get more information and to download AdGuard for Android, [visit our website](https://adguard.com/adguard-android/overview.html).
+<br />
 
 <a id="contribution"></a>
 ## Contribution

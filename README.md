@@ -24,8 +24,7 @@
     <a href="https://github.com/AdguardTeam/AdguardForAndroid/releases"><img src="https://img.shields.io/github/v/release/AdguardTeam/AdguardForAndroid?color=blue&display_name=release&label=Release" alt="Latest release" /></a>
     <a href="https://github.com/AdguardTeam/AdguardForAndroid/releases"><img src="https://img.shields.io/github/v/release/AdguardTeam/AdguardForAndroid?color=dodgerblue&display_name=release&label=Testing&include_prereleases" alt="Beta version>" /></a>
   </p>
-
-  &nbsp;
+<br />
   <p align="center">
     <a href="https://agrd.io/github_huawei_adblocker"><img src="https://cdn.adtidy.org/content/github/badges/AppGalleryStore.png" alt="Explore it on AppGallery" height="40" /></a>
     &nbsp;
@@ -33,24 +32,8 @@
     &nbsp;
     <a href="https://agrd.io/github_samsung_adblocker"><img src="https://cdn.adtidy.org/content/github/badges/GalaxyStore.png" alt="Available on Galaxy Store" height="40" /></a>
   </p>
-
-
-&nbsp;
-* [Contribution](#contribution)
-  * [How to report an issue](#issue)
-  * [Translating AdGuard](#contribution-translating)
-  * [Other options](#contribution-other)
-  * [How to become a Beta tester](#beta-tester)
-
-> ### Disclaimer
->* AdGuard for Android is not an open source project. We use GitHub as an open bug tracker for users to see what developers are working on. However, we at AdGuard create [a lot of open source software](https://github.com/search?o=desc&q=topic%3Aopen-source+org%3AAdguardTeam+fork%3Atrue&s=stars&type=Repositories).
->* View our [Privacy Policy](https://adguard.com/privacy/android.html) (Briefly: AdGuard sends only necessary, limited information, e.g. information required for a license check).
-
-AdGuard is a unique tool that blocks ads in apps and browsers even without ROOT privileges, protects your privacy, and helps you manage your apps. AdGuard gives you options of running it either VPN or HTTP proxy mode and allows to set up custom DNS settings (with DNSCrypt support).
-
-To get more information and to download AdGuard for Android, [visit our website](https://adguard.com/adguard-android/overview.html).
-
-<p align="center">
+<br />
+  <p align="center">
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.adguard.com/content/github/ad_blocker/android/dark_home4.5.png" width="250">
    <img src="https://cdn.adguard.com/content/github/ad_blocker/android/home4.5.png" width="250">
@@ -64,6 +47,21 @@ To get more information and to download AdGuard for Android, [visit our website]
    <img src="https://cdn.adguard.com/content/github/ad_blocker/android/settings4.5.png" width="250">
  </picture>
 </p>
+<br />
+
+* [Contribution](#contribution)
+  * [How to report an issue](#issue)
+  * [Translating AdGuard](#contribution-translating)
+  * [Other options](#contribution-other)
+  * [How to become a Beta tester](#beta-tester)
+
+> ### Disclaimer
+>* AdGuard for Android is not an open source project. We use GitHub as an open bug tracker for users to see what developers are working on. However, we at AdGuard create [a lot of open source software](https://github.com/search?o=desc&q=topic%3Aopen-source+org%3AAdguardTeam+fork%3Atrue&s=stars&type=Repositories).
+>* View our [Privacy Policy](https://adguard.com/privacy/android.html) (Briefly: AdGuard sends only necessary, limited information, e.g. information required for a license check).
+
+AdGuard is a unique tool that blocks ads in apps and browsers even without ROOT privileges, protects your privacy, and helps you manage your apps. AdGuard gives you options of running it either VPN or HTTP proxy mode and allows to set up custom DNS settings (with DNSCrypt support).
+
+To get more information and to download AdGuard for Android, [visit our website](https://adguard.com/adguard-android/overview.html).
 
 <a id="contribution"></a>
 ## Contribution

@@ -87,7 +87,7 @@ body:
       value: |
         Select enabled filters if they are related to the application bug.
         If the issue is related to the filtering (missed ads, cookie, etc.)
-        use the [Web Reporting Tool](https://kb.adguard.com/technical-support/reporting-tool) please.
+        please use the [Web Reporting Tool](https://kb.adguard.com/technical-support/reporting-tool).
         
   - type: dropdown
     id: filters_adblock
@@ -260,6 +260,7 @@ body:
   - type: dropdown
     id: dns_protocol
     attributes:
+      description: Skip this if DNS protection is disabled.
       label: DNS protocol
       multiple: false
       options:
@@ -270,7 +271,7 @@ body:
         - DNS-over-TLS
         - DNS-over-QUIC
     validations:
-      required: false
+      required: true
       
   - type: textarea
     id: custom_dns
@@ -305,6 +306,15 @@ body:
         - Remove X-client-Data header from HTTP request
         - Protect against DPI
   
+  - type: input
+    id: customer_id
+    attributes:
+      label: Support ticket ID
+      description: If you've already sent us a diagnostic report through the application, share the ticket ID number. You can find it in an auto-reply email from AdGuard support after sending a report.
+      placeholder: Enter a ticket ID
+    validations:
+      required: false
+      
   - type: textarea
     id: what-happened
     attributes:

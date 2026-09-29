@@ -20,7 +20,7 @@ body:
     id: app_version
     attributes:
       label: AdGuard version
-      description: What version of our application are you running?
+      description: What version of AdGuard for Android are you running?
       placeholder: For example, 4.14.1
     validations:
       required: true
@@ -30,11 +30,11 @@ body:
     attributes:
       label: Environment
       description: |
-        examples:
-          - **OS version**: Android 17
+        Examples:
+          - **Android version**: Android 17
           - **Device**: Google Pixel 11 
       value: |
-        - OS version:
+        - Android version:
         - Device:
     validations:
       required: true
